@@ -27,6 +27,8 @@ body{
 
 .child11:hover{
     transform: translateY(3px);
+    border: 2px solid #FFD000;
+    transition: 0.4s
 }
 
 .child11:active{
