@@ -1,5 +1,11 @@
 body{
     min-height:100vh ;
+    background-image: url(https://www.publicdomainpictures.net/pictures/40000/nahled/paw-prints-background.jpg);
+        background-repeat:no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        background-color:rgb(202, 206, 197);
 }
 
 .container0{
